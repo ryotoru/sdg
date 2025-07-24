@@ -25,8 +25,8 @@ This project provides an automated pipeline for performing initial Exploratory D
 
 1.  Clone the repository:
     ```bash
-    git clone <your-repo-url>
-    cd <your-repo-directory>
+    git clone <repo-url>
+    cd <repo-directory>
     ```
 
 2.  Install the required dependencies:
