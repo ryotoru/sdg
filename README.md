@@ -1,4 +1,4 @@
-# Automated EDA Plotting Pipeline
+# EHR EDA Plotting Pipeline
 
 This project provides an automated pipeline for performing initial Exploratory Data Analysis (EDA) on tabular datasets. It generates high-quality histograms with adaptive binning, Kernel Density Estimates (KDEs), and consolidated PDF reports for all numeric columns in your data for further analysis.
 
