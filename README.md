@@ -13,13 +13,13 @@ This project provides an automated pipeline for performing initial Exploratory D
 * **EHR-Friendly**: Designed for cleaning Electronic Health Record (EHR) data.
 
 ## Structure 
-**codes** all the codes in used
-*histogram.py*: The core module for generating histograms and KDE plots with adaptive binning and data cleaning.
-*windsorp.py*: Contains utility functions to save plots into a gridded PDF and to save the Winsorized DataFrame to a CSV.
-*pipeline.py*: Integrates the plotting and utility functions into a single, configurable workflow.
+**codes** all the code files. <br>
+*histogram.py*: The core module for generating histograms and KDE plots with adaptive binning and data cleaning.<br>
+*windsorp.py*: Contains utility functions to save plots into a gridded PDF and to save the Winsorized DataFrame to a CSV. <br>
+*pipeline.py*: Integrates the plotting and utility functions into a single, configurable workflow. <br>
 
-*final.py*: The main entry point to run the complete analysis pipeline.
-*column.py*: Provides a utility to generate a summary CSV of all columns, their data types, and missing value statistics.
+*final.py*: The main entry point to run the complete analysis pipeline. <br>
+*column.py*: Provides a utility to generate a summary CSV of all columns, their data types, and missing value statistics. <br>
 
 ## Installation
 
